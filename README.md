@@ -105,20 +105,11 @@ This repository contains a collection of projects completed as part of coursewor
 ```
 
 Each project folder contains:
-- **Code files:** Implementation in MATLAB and Python.
+- **Code files:** Implementation in MATLAB.
 - **Documentation:** Details of the algorithm and its application.
 - **Sample Data:** Example input images and corresponding results (where applicable).
 
 ---
-
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/DIP-Projects.git
-   ```
-2. Navigate to the desired project directory.
-3. Follow the instructions in the `README.md` file inside each project folder.
 
 ---
 
