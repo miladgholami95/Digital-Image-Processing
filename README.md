@@ -22,7 +22,7 @@ This repository contains a collection of projects completed as part of coursewor
 
 **Duration:** February 2023 – June 2023  
 **Description:** Developed an algorithm to identify seven Persian characters, including five letters and two numbers.  
-**Tools:** MATLAB, Python  
+**Tool:** MATLAB 
 
 ---
 
@@ -30,7 +30,7 @@ This repository contains a collection of projects completed as part of coursewor
 
 **Duration:** February 2023 – June 2023  
 **Description:** Created an algorithm to calculate the area and perimeter of a figure within an image.  
-**Tools:** MATLAB
+**Tool:** MATLAB
 
 ---
 
@@ -38,7 +38,7 @@ This repository contains a collection of projects completed as part of coursewor
 
 **Duration:** September 2023 – February 2024  
 **Description:** Designed an algorithm to recognize ten Persian letters with various fonts and sizes in images.  
-**Tools:** MATLAB  
+**Tool:** MATLAB  
 
 ---
 
@@ -46,7 +46,7 @@ This repository contains a collection of projects completed as part of coursewor
 
 **Duration:** September 2023 – February 2024  
 **Description:** Developed methods for embedding watermarks in images at the byte-by-byte and bit-by-bit levels.  
-**Tools:** MATLAB  
+**Tool:** MATLAB  
 
 ---
 
@@ -54,7 +54,7 @@ This repository contains a collection of projects completed as part of coursewor
 
 **Duration:** September 2023 – February 2024  
 **Description:** Implemented an algorithm to identify coins in a photo and calculate their total value.  
-**Tools:** MATLAB  
+**Tool:** MATLAB  
 
 ---
 
@@ -62,7 +62,7 @@ This repository contains a collection of projects completed as part of coursewor
 
 **Duration:** September 2023 – February 2024  
 **Description:** Designed an algorithm to estimate the height of five different individuals in an image.  
-**Tools:** MATLAB  
+**Tool:** MATLAB  
 
 ---
 
@@ -70,7 +70,7 @@ This repository contains a collection of projects completed as part of coursewor
 
 **Duration:** September 2023 – February 2024  
 **Description:** Created an algorithm to identify seven images containing at least four objects and save descriptive text in a file.  
-**Tools:** MATLAB 
+**Tool:** MATLAB 
 
 ---
 
@@ -78,7 +78,7 @@ This repository contains a collection of projects completed as part of coursewor
 
 **Duration:** September 2023 – February 2024  
 **Description:** Developed a method to embed sound into an image.  
-**Tools:** MATLAB  
+**Tool:** MATLAB  
 
 ---
 
@@ -86,7 +86,7 @@ This repository contains a collection of projects completed as part of coursewor
 
 **Duration:** September 2023 – February 2024  
 **Description:** Implemented two methods for detecting skin pixels in an image.  
-**Tools:** MATLAB 
+**Tool:** MATLAB 
 
 ---
 
