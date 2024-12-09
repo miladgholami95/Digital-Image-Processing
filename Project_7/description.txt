@@ -1,0 +1,78 @@
+Object 1:
+Area: 1787
+Perimeter: 4.246860e+02
+Centroid: (129, 282)
+Bounding Box: (118, 214, 23, 134)
+
+Object 2:
+Area: 159
+Perimeter: 7.218200e+01
+Centroid: (146, 580)
+Bounding Box: (136, 573, 18, 16)
+
+Object 3:
+Area: 281
+Perimeter: 1.086860e+02
+Centroid: (143, 601)
+Bounding Box: (136, 588, 14, 28)
+
+Object 4:
+Area: 252
+Perimeter: 1.298660e+02
+Centroid: (144, 627)
+Bounding Box: (136, 616, 18, 25)
+
+Object 5:
+Area: 2111
+Perimeter: 4.068570e+02
+Centroid: (155, 284)
+Bounding Box: (141, 218, 26, 131)
+
+Object 6:
+Area: 271
+Perimeter: 6.105800e+01
+Centroid: (158, 207)
+Bounding Box: (150, 197, 17, 20)
+
+Object 7:
+Area: 76001
+Perimeter: 2.394756e+03
+Centroid: (357, 557)
+Bounding Box: (299, 96, 124, 894)
+
+Object 8:
+Area: 156
+Perimeter: 5.658400e+01
+Centroid: (343, 111)
+Bounding Box: (338, 101, 10, 22)
+
+Object 9:
+Area: 2484
+Perimeter: 1.060243e+03
+Centroid: (618, 510)
+Bounding Box: (554, 415, 121, 173)
+
+Object 10:
+Area: 200
+Perimeter: 2.858980e+02
+Centroid: (573, 491)
+Bounding Box: (566, 429, 22, 137)
+
+Object 11:
+Area: 227
+Perimeter: 9.095600e+01
+Centroid: (598, 501)
+Bounding Box: (587, 491, 21, 22)
+
+Object 12:
+Area: 316
+Perimeter: 1.543940e+02
+Centroid: (617, 456)
+Bounding Box: (614, 432, 9, 63)
+
+Object 13:
+Area: 71351
+Perimeter: 2.514401e+03
+Centroid: (842, 666)
+Bounding Box: (791, 106, 105, 1105)
+
