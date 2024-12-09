@@ -111,8 +111,6 @@ Each project folder contains:
 
 ---
 
----
-
 ## License
 
 This repository is open-source and available under the [MIT License](LICENSE).
