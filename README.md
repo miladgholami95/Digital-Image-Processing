@@ -121,7 +121,6 @@ The result is a labeled image and a summary text file describing the objects in 
 6. **Display Audio Waveform**:
    - The extracted audio waveform is plotted for verification.
 
----
 
 ### **Summary**:
 The watermarking process involves embedding audio data into the pixel values of an image, while the extraction process retrieves this audio data by decoding specific pixels of the image. This method allows embedding an audio file in an image without significantly altering the appearance of the image. 
