@@ -225,7 +225,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 ## Contact
 
 For any inquiries or collaboration, please contact:  
-**Milad Golami **
+**Milad Gholami **
 **Email:** miladgholami.kr@gmail.com  
 **LinkedIn:** linkedin.com/in/milad-gholami-339677172
 
